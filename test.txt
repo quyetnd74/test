@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 danh quyet
 tan hoi
-=======
->>>>>>> parent of f8ee222... edit file
-=======
->>>>>>> parent of f8ee222... edit file
+danh quyet
+tan hoi
